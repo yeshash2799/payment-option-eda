@@ -1,10 +1,5 @@
 # Payment Option EDA using Python
 
-### Project Overview
-In this project, I conducted an extensive Python analysis leveraging a range of powerful libraries to extract insights from a substantial dataset comprising approximately 6.5 million records. My methodology encompassed a series of meticulous steps to ensure data accuracy, reliability, and actionable outcomes.
-
-#### Key Highlights
-
 - **Efficient Data Handling:** Leveraged the versatile Pandas library to seamlessly load and manipulate the dataset, laying a solid foundation for the analysis.
 
 - **Feature Engineering:** Employed advanced techniques to extract valuable new features from the existing dataset, enhancing its richness and depth.
